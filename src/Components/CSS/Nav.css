@@ -1,0 +1,15 @@
+.nav_wrapper {
+    background-color: #25456b;
+}
+
+.CLear_Link_Border {
+    text-decoration: none;
+}
+
+.CLear_Link_Border:hover {
+    border: 1px solid white;
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
+
+}

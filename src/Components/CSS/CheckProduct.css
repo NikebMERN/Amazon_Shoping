@@ -1,0 +1,30 @@
+body {
+    background-color: #eaeded;
+}
+
+.sup {
+    max-width: 1250px;
+    max-height: 250px;
+    object-fit: cover;
+    z-index: 1;
+    box-shadow: 0 6px 18px -9px rgba(0, 0, 0, 0.75);
+    transition: transform 0.1s ease-in;
+}
+
+.sup:hover {
+    transform: scale(1.08);
+}
+
+.ss {
+    height: 170px;
+    width: 180px;
+    margin-top: 140px;
+}
+
+.balon {
+    margin-bottom: 100px;
+    background-color: #f0c14b;
+    border: 1px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+    /* margin-left: 200px; */
+}

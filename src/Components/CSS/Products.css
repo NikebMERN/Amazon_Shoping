@@ -1,0 +1,34 @@
+.Product {
+    flex-direction: column;
+    justify-content: flex-end;
+    max-width: 400px;
+    min-height: 100px;
+    z-index: 1;
+    box-shadow: 0 6px 18px -9px rgba(0, 0, 0, 0.75);
+    transition: transform 0.1s ease-in;
+}
+
+.Product_info > img {
+    max-height: 200px;
+    object-fit: contain;
+    margin-bottom: 50px;
+}
+
+.incridible {
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.product_info {
+    height: 100px;
+}
+
+.Product > button {
+    background-color: #f0c14b;
+    border: 1px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+}
+
+.Product:hover {
+    transform: scale(1.03);
+}

@@ -1,0 +1,16 @@
+.ADS {
+    z-index: 0.5;
+    max-width: 290px;
+    min-height: 50px;
+}
+
+.ADS > img {
+    max-height: 200px;
+    object-fit: contain;
+    margin-bottom: 50px;
+}
+
+.sublxxex {
+    padding-left: 70px;
+    margin-left: 70px;
+}

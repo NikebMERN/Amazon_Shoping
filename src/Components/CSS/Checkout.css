@@ -1,0 +1,13 @@
+.checking {
+    height: max-content;
+}
+
+.img {
+    max-height: 270px;
+    object-fit: contain;
+    padding-right: 550px;
+}
+
+.tittle {
+    border-bottom: 1px solid lightgrey;
+}

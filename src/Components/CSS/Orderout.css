@@ -1,0 +1,9 @@
+.order {
+    padding: 40px 0;
+    border: 1px solid lightgrey;
+}
+
+.order__id {
+    top: 40px;
+    right: 20px;
+}

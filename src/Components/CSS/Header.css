@@ -1,0 +1,77 @@
+.header_wrapper {
+    height: 60px;
+    background-color: #233448;
+    top: 0;
+    z-index: 100;
+}
+
+.america_logo {
+    height: 15px !important;
+}
+
+.header_cart .the_cart {
+    height: 30px;
+    width: 90%;
+    padding-right: 0;
+}
+
+.header_logo {
+    width: 100px;
+    object-fit: contain;
+}
+
+.header_location{
+    height: 15px !important;
+}
+
+.header_optionChocice {
+    flex: 0.1;
+    border-radius: 1vmin;
+    height: 39px;
+    border: none;
+    width: 50%;
+}
+
+.header_search {
+    flex: 1;
+    border-radius: 24px;
+}
+
+.header_search .header_searchIcon {
+    height: 39px !important;
+    width: 30px;
+    padding: 2px;
+}
+
+.header_searchinput {
+    height: 39px;
+    border: none;
+    width: 100%;
+}
+
+.header_option {
+    flex-direction: column;
+}
+
+.header_nav {
+    justify-content: space-evenly;
+}
+
+.header_optionLineOne {
+    font-size: 10px;
+}
+
+.header_optionLinetwo {
+    font-size: 13px;
+}
+
+.CLear_Link_Border:hover {
+    transform: scale(1.00000000000000000001);
+    padding: 3px;
+    border: 2px solid white;
+}
+
+.CLear_Link_Borderb:hover {
+    border: 2px solid white;
+    border-bottom: 0;
+}
